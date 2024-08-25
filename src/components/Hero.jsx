@@ -1,4 +1,5 @@
 import {logo} from '../assets'
+import {summer-high-resolution-logo} from '../assets'
 
 const Hero = () => {
   return (
